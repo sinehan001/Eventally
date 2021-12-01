@@ -1,0 +1,55 @@
+# Notice: Collection of data on Eventally through automated means is
+# prohibited unless you have express written permission from Eventally
+# and may only be conducted for the limited purpose contained in said
+# permission.
+
+Sitemap: https://eventally.in/sitemap.xml
+User-agent: *
+Disallow: /cadmin/
+Disallow: /img/
+Disallow: /about.php
+Disallow: /adclub.php
+Disallow: /adgallery.php
+Disallow: /alogout.php
+Disallow: /adres.php
+Disallow: /c_club.php
+Disallow: /ce.php
+Disallow: /cg.php
+Disallow: /cgpass
+Disallow: /clubs.php
+Disallow: /cpro.php
+Disallow: /connect.php
+Disallow: /cr.php
+Disallow: /create.php
+Disallow: /create_club.php
+Disallow: /database_connection.php
+Disallow: /delete.php
+Disallow: /delevnt.php
+Disallow: /dpro.php
+Disallow: /editpro.php
+Disallow: /endevent.php
+Disallow: /err.php
+Disallow: /eventinfo.php
+Disallow: /events.php
+Disallow: /fetch.php
+Disallow: /fetching.php
+Disallow: /gallery.php
+Disallow: /hb.php
+Disallow: /hk.php
+Disallow: /leave.php
+Disallow: /logout.php
+Disallow: /print.php
+Disallow: /profile.php
+Disallow: /redirect.php
+Disallow: /reg.php
+Disallow: /register.php
+Disallow: /rename.php
+Disallow: /reset.php
+Disallow: /result.php
+Disallow: /sc.php
+Disallow: /share.php
+Disallow: /vcode.php
+Allow: /index.php
+Allow: /Signup.php
+Allow: /Login.php
+Allow: /adlog.php
